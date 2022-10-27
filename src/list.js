@@ -1,0 +1,1 @@
+export const list=[aa,bb,cc,dd,ee,ff]
